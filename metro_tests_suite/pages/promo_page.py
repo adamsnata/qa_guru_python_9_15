@@ -1,5 +1,5 @@
 from selene import browser, have
-from tests import conftest
+#from tests import conftest
 
 
 class Promo:
